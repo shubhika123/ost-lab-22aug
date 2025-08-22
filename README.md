@@ -1,4 +1,4 @@
-# ost-lab(22aug)
+# ost-lab-22aug
 
 🔥 GitHub Environment Exploration – Hands-on Experiments
 
